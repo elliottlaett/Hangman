@@ -1,5 +1,7 @@
 package bmiServerFX;
 
+// Is used to an additional task in school
+
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
