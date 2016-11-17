@@ -1,2 +1,2 @@
 # Hangman
-To much of a hangman game
+Too much of a hangman game
